@@ -1,4 +1,4 @@
-![길동이](https://drive.google.com/uc?export=view&id=1Bwqz6UGVOI04U33ITZF9y0iFnh4Fcvbk)
+<center>![길동이](https://drive.google.com/uc?export=view&id=1Bwqz6UGVOI04U33ITZF9y0iFnh4Fcvbk)</center>
 
 # 외국인 전문납치단 
 
@@ -50,10 +50,10 @@ Dialog-KoELECTRA, YOLOv5, Docker, ONNX-Runtime, Poetry, FastAPI, Clova Speech Re
 
 ## 파이프라인 시연
 
-[![Pipeline_example](https://drive.google.com/uc?export=view&id=1UH_watX5014rfS1PNcNemBRGOXW8Iv0F)](https://youtu.be/H4S8g4C03ug)
+[![Pipeline_example](https://drive.google.com/uc?export=view&id=1UH_watX5014rfS1PNcNemBRGOXW8Iv0F){:target="_blank"}](https://youtu.be/H4S8g4C03ug)
 
 <br>
 
 ## 웹 시연
 
-[![Web_example](https://drive.google.com/uc?export=view&id=1D0VfwxUmxs8WSftqEQ612jOTMJxIC1s1)](https://youtu.be/0lE5a9peFLU)
+[![Web_example](https://drive.google.com/uc?export=view&id=1D0VfwxUmxs8WSftqEQ612jOTMJxIC1s1){:target="_blank"}](https://youtu.be/0lE5a9peFLU)
