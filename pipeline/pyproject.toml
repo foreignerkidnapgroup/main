@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "home"
+version = "0.1.0"
+description = ""
+authors = ["None"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.0.2"
+moviepy = "^1.0.3"
+requests = "^2.31.0"
+wave = "^0.0.2"
+konlpy = "^0.6.0"
+pydub = "^0.25.1"
+streamlit = "^1.23.1"
+audio-recorder-streamlit = "^0.0.8"
+psutil = "^5.9.5"
+opencv-python-headless = "^4.7.0.72"
+
+
+[build-system]
+requires = ["poetry"]
+build-backend = "poetry.masonry.api"

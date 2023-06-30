@@ -1,0 +1,36 @@
+[tool.poetry]
+name = "home"
+version = "0.1.0"
+description = ""
+authors = ["None"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.12"
+gitpython = ">=3.1.30"
+matplotlib = ">=3.3"
+numpy = ">=1.18.5"
+opencv-python = ">=4.1.1"
+pillow = ">=7.1.2"
+pyyaml = ">=5.3.1"
+requests = ">=2.23.0"
+scipy = ">=1.4.1"
+tqdm = ">=4.64.0"
+ultralytics = ">=8.0.111"
+pandas = ">=1.1.4"
+seaborn = ">=0.11.0"
+torch = {version="2.0.0", source="torch"}
+torchvision = {version="0.15.1", source="torch"}
+torchaudio = {version="2.0.1", source="torch"}
+fastapi = "^0.98.0"
+uvicorn = "^0.22.0"
+
+[[tool.poetry.source]]
+name = "torch"
+url = "https://download.pytorch.org/whl/cpu"
+secondary = true
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
