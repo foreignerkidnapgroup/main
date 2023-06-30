@@ -1,4 +1,4 @@
-<center>![길동이](https://drive.google.com/uc?export=view&id=1Bwqz6UGVOI04U33ITZF9y0iFnh4Fcvbk)</center>
+<center><img src="https://drive.google.com/uc?export=view&id=1Bwqz6UGVOI04U33ITZF9y0iFnh4Fcvbk" alt="길동이" /></center>
 
 # 외국인 전문납치단 
 
