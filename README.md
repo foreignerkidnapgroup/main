@@ -1,4 +1,4 @@
-<center><img src="https://drive.google.com/uc?export=view&id=1Bwqz6UGVOI04U33ITZF9y0iFnh4Fcvbk" alt="길동이" /></center>
+<img src="https://drive.google.com/uc?export=view&id=1Bwqz6UGVOI04U33ITZF9y0iFnh4Fcvbk" alt="길동이" align="center"/>
 
 # 외국인 전문납치단 
 
@@ -50,10 +50,16 @@ Dialog-KoELECTRA, YOLOv5, Docker, ONNX-Runtime, Poetry, FastAPI, Clova Speech Re
 
 ## 파이프라인 시연
 
-[![Pipeline_example](https://drive.google.com/uc?export=view&id=1UH_watX5014rfS1PNcNemBRGOXW8Iv0F){:target="_blank"}](https://youtu.be/H4S8g4C03ug)
+[![Pipeline_example](https://drive.google.com/uc?export=view&id=1UH_watX5014rfS1PNcNemBRGOXW8Iv0F)](https://youtu.be/H4S8g4C03ug)
 
 <br>
 
 ## 웹 시연
 
-[![Web_example](https://drive.google.com/uc?export=view&id=1D0VfwxUmxs8WSftqEQ612jOTMJxIC1s1){:target="_blank"}](https://youtu.be/0lE5a9peFLU)
+[![Web_example](https://drive.google.com/uc?export=view&id=1D0VfwxUmxs8WSftqEQ612jOTMJxIC1s1)](https://youtu.be/0lE5a9peFLU)
+
+
+
+## 발표 자료
+
+<a href="https://drive.google.com/file/d/1JiGZ14Plh5PI1JnnBvJuWEyj0T6gXp7H/view?usp=drive_link" target="_blank">외국인 납치 전문단_발표자료</a>
